@@ -21,6 +21,12 @@ Software Engineer focused on building scalable SaaS products, AI-powered applica
 * PostgreSQL
 * SQL
 
+### Cloud & DevOps
+* Docker
+* AWS
+* CI/CD
+* Nginx
+  
 ### Frontend
 
 * React
