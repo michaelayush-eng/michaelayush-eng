@@ -49,6 +49,9 @@ Software Engineer focused on building scalable SaaS products, AI-powered applica
 * Agentic Workflows
 * AI Content Generation
 * Automation Systems
+* RAG architectures
+* LangChain
+* Multi-agent workflows
 
 
 ### Platforms & Tools
@@ -60,11 +63,12 @@ Software Engineer focused on building scalable SaaS products, AI-powered applica
 
 ## Professional Experience
 
-### Python Developer | Atlantick Solutions
+### Software Engineer(AI/ML) | Atlantick Solutions
 
 **Feb 2025 – Present**
 
-* Developed backend systems and business workflows
+* Designed scalable backend systems, AI-powered workflows, agentic AI solutions, LangChain
+orchestration, APIs, Redis services, Docker deployments, AWS infrastructure, and CI/CD pipelines
 * Built APIs and scalable platform features
 * Designed database structures and business automation processes
 * Worked on SaaS and management platforms
@@ -84,7 +88,7 @@ Software Engineer focused on building scalable SaaS products, AI-powered applica
 
 AI-powered website auditing platform that helps businesses optimize websites for AI agents and improve visibility in AI-generated responses.
 
-**Tech:** FastAPI • React • PostgreSQL • Gemini AI
+**Tech:** FastAPI • React • PostgreSQL • Gemini AI • LangChain 
 
 ### No Minnows
 
