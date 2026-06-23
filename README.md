@@ -96,11 +96,11 @@ B2B marketplace connecting companies and software agencies through proposal-base
 
 **Tech:** FastAPI • React • PostgreSQL
 
-### Employee Management System
+### AI Voice Bot
 
-Employee management platform featuring role-based access control, attendance workflows, employee records, and administrative management tools.
+Built a real-time AI voice assistant integrating Speech-to-Text, LLM reasoning, and Text-to-Speech.
 
-**Tech:** Django • React • PostgreSQL
+**Tech:** Sarvam • FastAPI • Exotel 
 
 ## Client Projects
 
